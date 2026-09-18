@@ -1,3 +1,3 @@
 # malikabdallacyf
-a cyf project
-short introduction to Khartoum
+# a cyf project
+# short introduction to Khartoum
